@@ -1,0 +1,16 @@
+{
+  "name": "teste_get",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "author": "neimar",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0"
+  }
+}
