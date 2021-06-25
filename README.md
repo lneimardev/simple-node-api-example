@@ -35,8 +35,6 @@ app
 #### Example
 The applicaton will run at http://localhost:3333
 
-There are four methods to be called **'/calculo1'**, **'/calculo2'**, **'/calculo3'**, **'/calculo4'**
-
 There is a simple method called **'/calculadora'**
 
 You can call them passing the request body as a json as the example bellow:
@@ -54,7 +52,9 @@ You can call them passing the request body as a json as the example bellow:
 ```
 
 **numero1** is a required attribute
+
 **numero2** is a required attribute and need to be greater than zero
+
 **operacao** is a required attribute
 
 </p>
