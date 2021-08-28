@@ -2,7 +2,7 @@
 const express = require('express');
 const routers = require('./routes/routes');
 const bodyParser = require("body-parser");
-var cors = require('cors');
+const cors = require('cors');
 
 // Importando/Instanciando
 require('./jobs/jobs');
