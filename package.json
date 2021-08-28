@@ -1,12 +1,13 @@
 {
   "name": "teste_get",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "teste",
   "main": "index.js",
   "author": "neimar",
   "license": "MIT",
   "scripts": {
-    "dev": "node src/server.js"
+    "dev": "node src/server.js",
+    "start": "node src/server.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
